@@ -1,0 +1,1 @@
+This is the console based weather rust application in i have used API key through which at the end we can search any city name on console so that we could know what is the temperature of particular city throughout the globe
